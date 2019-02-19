@@ -23,4 +23,4 @@ https://myrmidonut.github.io/fcc_responsive_personal_portfolio
 
 ## Preview Images
 ### Main Screen:
-![Personal Portfolio Webpage](readme_images/personal-portfolio-image.png)
+![Personal Portfolio Webpage](readme_images/personal-portfolio-webpage.png)
