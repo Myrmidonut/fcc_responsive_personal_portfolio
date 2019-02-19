@@ -3,7 +3,7 @@
 ## Introduction
 A personal portfolio webpage.
 
-This project is part of freeCodeCamps Data Visualization certificate.
+This project is part of freeCodeCamps Responsive Web Design certificate.
 
 ## Project Requirements
 * The portfolio should have a welcome section with an id of welcome-section.
