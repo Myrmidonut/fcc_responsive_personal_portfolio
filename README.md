@@ -5,6 +5,8 @@ A personal portfolio webpage.
 
 This project is part of freeCodeCamps Responsive Web Design certificate.
 
+***
+
 ## Project Requirements
 * The portfolio should have a welcome section with an id of welcome-section.
 * The welcome section should have an h1 element that contains text.
@@ -18,8 +20,12 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * The height of the welcome section should be equal to the height of the viewport.
 * The navbar should always be at the top of the viewport.
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_responsive_personal_portfolio
+
+***
 
 ## Preview Images
 ### Main Screen:
